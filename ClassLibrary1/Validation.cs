@@ -62,7 +62,7 @@ namespace ClassLibrary1
         {
             if (Regex.IsMatch(email, EMAIL_REGEX))
             {
-                Console.WriteLine("Email Name Matches");
+                Console.WriteLine("Email Matches");
             }
             else
             {
